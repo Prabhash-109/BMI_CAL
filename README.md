@@ -11,4 +11,5 @@ Features
 Input Fields: Users can input their weight (in kilograms) and height (in meters).
 Calculate Button: Clicking the "Calculate BMI" button triggers the BMI computation.
 Result Display: The calculated BMI and corresponding category (e.g., Underweight, Normal, Overweight) are dynamically displayed.
-Styling: Utilized CSS for responsive design, making the calculator accessible on various devices.
+Styling: Utilized CSS for responsive design, making the calculator accessible on vaious devices
+
